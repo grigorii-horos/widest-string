@@ -1,8 +1,9 @@
 # Welcome to widest-string 👋
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/github/package-json/v/horosgrisa/widest-string.svg)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/horosgrisa/widest-string#readme)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/horosgrisa/widest-string/graphs/commit-activity)
-[![License: GPL-3.0-or-later](https://img.shields.io/badge/License-GPL-3.0-or-later-yellow.svg)](https://github.com/horosgrisa/widest-string/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)](https://github.com/horosgrisa/widest-string/graphs/commit-activity)
+[![License: GPL-3.0](https://img.shields.io/github/license/horosgrisa/widest-string.svg)](https://github.com/horosgrisa/widest-string/blob/master/LICENSE)
+![Downloads](https://img.shields.io/npm/dw/widest-string.svg)
 
 > Get the visual width of the widest line in a array of strings - the number of columns required to display it
 
