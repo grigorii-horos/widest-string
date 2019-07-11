@@ -1,0 +1,47 @@
+{
+  "name": "widest-string",
+  "version": "1.0.0",
+  "description": "Get the visual width of the widest line in a array of strings - the number of columns required to display it",
+  "main": "index.js",
+  "dependencies": {
+    "widest-line": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horosgrisa/widest-string.git"
+  },
+  "keywords": [
+    "string",
+    "character",
+    "unicode",
+    "width",
+    "visual",
+    "column",
+    "columns",
+    "fullwidth",
+    "full-width",
+    "full",
+    "ansi",
+    "escape",
+    "codes",
+    "cli",
+    "command-line",
+    "terminal",
+    "console",
+    "cjk",
+    "chinese",
+    "japanese",
+    "korean",
+    "fixed-width"
+  ],
+  "author": "Grigorii Horos",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/horosgrisa/widest-string/issues"
+  },
+  "homepage": "https://github.com/horosgrisa/widest-string#readme"
+}
